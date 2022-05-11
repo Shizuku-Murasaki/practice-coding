@@ -1,0 +1,1 @@
+tail -c 3 sample.txt

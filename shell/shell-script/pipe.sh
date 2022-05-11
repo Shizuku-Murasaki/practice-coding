@@ -1,0 +1,1 @@
+git branch | grep "main" | xargs git checkout

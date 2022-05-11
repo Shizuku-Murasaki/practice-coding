@@ -1,0 +1,1 @@
+curl -G http://example.com

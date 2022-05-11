@@ -1,0 +1,1 @@
+dir 2> text-2.txt

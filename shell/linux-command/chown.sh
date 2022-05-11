@@ -1,0 +1,1 @@
+chown name sample.txt

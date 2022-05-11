@@ -1,0 +1,9 @@
+git/git hubとは何か理解する
+
+- git
+・Gitとは、分散型バージョン管理システムで、ファイルのバージョン管理が簡単にできるCUIツール
+
+- git hub
+・GitHubとは、gitをオンライン上に設置することで、集団でのファイルの編集を可能にするサービス
+
+https://qiita.com/renesisu727/items/248cb9468a402c622003

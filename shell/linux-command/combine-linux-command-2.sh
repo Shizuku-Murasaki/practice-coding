@@ -1,0 +1,1 @@
+seq 1 3 | xargs -t -n1 echo

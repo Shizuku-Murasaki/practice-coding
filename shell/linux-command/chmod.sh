@@ -1,0 +1,1 @@
+chmod 777 smaple.txt

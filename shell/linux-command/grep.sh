@@ -1,0 +1,1 @@
+grep blue sample1.txt
